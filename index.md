@@ -1,4 +1,4 @@
-![Kunst](01.jpg)
+![Work](02.jpg)
 
 # Neues aus dem CBS-Expertenblog:
 
