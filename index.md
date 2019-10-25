@@ -1,6 +1,6 @@
-![purchase](03.jpg)
-
 # Neues aus dem CBS-Expertenblog:
+
+![purchase](03.jpg)
 
 Vor einigen Monaten habe ich praktische Erfahrungen im Bereich Einkauf eines Konzerns im Raum Düsseldorf gesammelt. Währenddessen habe ich den Fortschritt der Automatisierung und Vereinfachung der Prozesse miterlebt. Doch nicht immer lässt sich die Planung so leicht umsetzten... ein sehr gut geplantes Projektmanagement und eine ganzheitliche Kommunikation wird dazu benötigt. Mit letzterem meine ich die Kommunikation durch alle Ebe-nen einer Abteilung. Schon damals hat mich das Thema Einkauf 4.0 und allgemein der digi-tale Wandel des Bereichs Einkauf fasziniert. Im Verlauf des Papers werden die Effekte der Digitalisierung auf die Unternehmensfunktion Einkauf dargestellt, das neue Konzept „Ein-kauf 4.0“ näher beleuchtet und schlussendlich ein Fazit zur Anwendbarkeit und Umsetzung gezogen.
 
