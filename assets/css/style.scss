@@ -4,6 +4,11 @@
 @import "{{site.theme}}";
 @import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
 
+title {
+  font-family: "montserrat", sans-serif;
+  color: #6e6e6e;
+}
+
 body {
   font-family: "montserrat", sans-serif;
 }
