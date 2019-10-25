@@ -1,4 +1,4 @@
-![Work](02.jpg)
+![purchase](03.jpg)
 
 # Neues aus dem CBS-Expertenblog:
 
