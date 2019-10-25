@@ -1,4 +1,4 @@
-# Neues aus dem CBS-Expertenblog:
+## Neues aus dem CBS-Expertenblog:
 
 ![purchase](03.jpg)
 
